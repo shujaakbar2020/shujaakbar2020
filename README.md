@@ -1,11 +1,13 @@
-### Hi there 👋
 
-<p>
+<p align="center">
   <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.djangoproject.com/">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-092E20?logo=flask&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge"/>
@@ -29,8 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shuja</h1>
-<h3 align="center">A passionate Python Django Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Shuja Akbar</h1>
+<h3 align="center">A passionate Python(Django,Flask) Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shujaakbar2020&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shujaakbar2020" /> </p>
 
