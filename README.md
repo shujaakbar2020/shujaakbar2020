@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/shujaakbar2020](https://github.com/shujaakbar2020)
 
-- 📝 I regularly write articles on [https://shujaakbar.herokuapp.com/](https://shujaakbar.herokuapp.com/)
+- 📝 I regularly write articles on [https://shujaakbar.netlify.app/](https://shujaakbar.netlify.app/)
 
 - 💬 Ask me about **Python, Django and CMS platform.**
 
 - 📫 How to reach me **shujaakbar2020@gmail.com**
 
-- 📄 Know about my experiences [https://shujaakbar.herokuapp.com/](https://shujaakbar.herokuapp.com/)
+- 📄 Know about my experiences [https://shujaakbar.netlify.app/](https://shujaakbar.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
