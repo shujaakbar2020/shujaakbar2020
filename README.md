@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **shujaakbar2020@gmail.com**
 
-- 📄 Know about my experiences [https://shujaakbar.netlify.app/](https://shujaakbar.netlify.app/)
+- 📄 Know about my experiences [https://shujaakbar.com/](https://shujaakbar.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
