@@ -1,16 +1,19 @@
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-092E20?logo=flask&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://en.wikipedia.org/wiki/DevOps">
     <img alt="DevOps" src="https://img.shields.io/badge/DevOps-0A66C2?logo=azuredevops&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CI/CD">
+    <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0A66C2?logo=gitlab&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
