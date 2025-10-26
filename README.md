@@ -32,21 +32,21 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shuja Akbar</h1>
-<h3 align="center">A passionate Python(Django,Flask) Developer from Pakistan</h3>
+<h3 align="center">A DevOps Specialist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shujaakbar2020&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shujaakbar2020" /> </p>
 
 
 
-- 🌱 I’m currently learning **Data Science with Python Django and React platforms.**
+- 🔭 I’m currently working as **DevOps Engineer with specilities in AWS and AZURE.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shujaakbar2020](https://github.com/shujaakbar2020)
 
-- 📝 I regularly write articles on [https://shujaakbar.netlify.app/](https://shujaakbar.netlify.app/)
+- 📝 I regularly write articles on [https://blog.shujaakbar.com/](https://blog.shujaakbar.com/)
 
-- 💬 Ask me about **Python, Django and CMS platform.**
+- 💬 Ask me about **DevOps, Cloud Automation and CICD**
 
-- 📫 How to reach me **shujaakbar2020@gmail.com**
+- 📫 How to reach me **shujaakbar2024@gmail.com**
 
 - 📄 Know about my experiences [https://shujaakbar.com/](https://shujaakbar.com/)
 
