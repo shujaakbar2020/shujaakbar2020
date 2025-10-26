@@ -9,9 +9,9 @@
   <a href="https://www.djangoproject.com/">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-092E20?logo=flask&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge"/>
-   </a>
+  <a href="https://en.wikipedia.org/wiki/DevOps">
+    <img alt="DevOps" src="https://img.shields.io/badge/DevOps-0A66C2?logo=azuredevops&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
