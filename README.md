@@ -97,7 +97,7 @@ Here are some ideas to get you started:
          alt="argocd" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
+    <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/aws/icon/color/aws-icon-color.svg" 
          alt="aws" width="40" height="40"/> 
   </a>
   <a href="https://azure.microsoft.com/" target="_blank"> 
