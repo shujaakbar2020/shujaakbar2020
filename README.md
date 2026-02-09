@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 <a href="https://www.hackerearth.com/shujaakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shujaakbar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shujaakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shujaakbar" height="30" width="40" /></a>
 </p>
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Matlab&logoColor=white)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://kubernetes.io" target="_blank"> 
